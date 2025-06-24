@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/banner.png" alt="Uttam Tripathi Banner"/>
+  <img src="./assets/Banner.png" alt="Uttam Tripathi Banner"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Uttam Tripathi</h1>
