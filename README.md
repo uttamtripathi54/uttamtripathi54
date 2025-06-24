@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="./assets/Bannerr.png" alt="Uttam Tripathi Banner"/>
+  <img src="./assets/Banner.png" alt="Uttam Tripathi Banner"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Uttam Tripathi</h1>
 <p align="center">
-  🎓 BCA Graduate | Data Science & AI Enthusiast | L1 Service Desk Analyst @ HCL Technologies  
+  🎓 BCA Graduate | Data Science & AI Enthusiast | IT Analyst @ HCL Technologies  
 </p>
 <p align="center">
   📍 Lucknow, Uttar Pradesh, India
@@ -32,7 +32,6 @@
 - 👨‍💻 Built [Depth Spark](https://github.com/uttamtripathi54/Depth-Spark): AI-powered 2D to 3D converter
 - 🚗 Researched Tesla's AI strategy in [Tesla AI Case Study](https://github.com/uttamtripathi54/Tesla-AI-Case-Study)
 - 🎬 Developed a smart Movie Recommender System using ML
-- 📈 Created Power BI dashboards (Amazon Sales, Indian Elections)
 - 🧠 Secured India Rank **1814** out of 5+ lakh in **Naukri Campus Aptitude Test 2025**
 
 ---
@@ -43,7 +42,7 @@
 - 🔷 **Tesla AI Case Study** → Analysis of Tesla’s autonomous driving ecosystem
 - 🔷 **Amazon Sales Report** → Dashboard for online sales insights
 - 🔷 **Movie Recommender** → Python-based ML system for movie suggestions
-- 🔷 **2024 Election Analysis** → Power BI + SQL visualizations of Indian results
+- 🔷 **2024 Election Analysis** → Python analysis & visualizations of Indian results
 
 ---
 
@@ -71,9 +70,7 @@
 
 ## 🎉 Fun Fact
 
-> I once built a project prototype in a single night just because the idea struck me in a dream!
-
-> _“Curiosity drives learning, and consistency turns it into success.”_
+> 🕵️ I treat every business challenge like a mystery — and data is the clue.
 
 ---
 
