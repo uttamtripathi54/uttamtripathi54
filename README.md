@@ -18,8 +18,7 @@
 #### 🔹 [Depth Spark](https://github.com/uttamtripathi54/Depth-Spark)
 > A web-based tool that converts 2D images into interactive 3D models using AI, designed for e-commerce, marketing, and education.
 
-#### 🔹 [Tesla AI Case Study] 
-(https://github.com/uttamtripathi54/Tesla-AI-Case-Study)
+#### 🔹 [Tesla AI Case Study](https://github.com/uttamtripathi54/Tesla-AI-Case-Study)
 > In-depth analysis of Tesla's application of AI in autonomous driving, energy systems, and manufacturing.
 
 #### 🔹 Movie Recommender System
