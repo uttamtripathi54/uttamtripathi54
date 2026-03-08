@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi 👋, I'm Uttam Tripathi</h1>
 <p align="center">
-  🎓 BCA Graduate | Data Science & AI Enthusiast | IT Analyst @ HCL Technologies  
+  🎓 Cloud & AI Enthusiast | IT Infrastructure & Operations @ HCL Technologies  
 </p>
 <p align="center">
   📍 Lucknow, Uttar Pradesh, India
